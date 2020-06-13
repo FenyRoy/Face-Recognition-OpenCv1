@@ -5,8 +5,8 @@ It's a simple project that uses OpenCv to detect faces and identify them.
 I have done the project in a python virtual environment.(PS: Not uploaded the environment codes.)
 
 For the project I have imported the following libraries:
-  pip install opencv-contrib-python
-  pip install pillow
+  `pip install opencv-contrib-python`
+  `pip install pillow`
  
 all other default python packages are not specified.
 
